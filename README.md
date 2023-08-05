@@ -1,7 +1,7 @@
 ### Trabajo practico
-<p>El trabajo consiste en generar un contenedor que al ejecutarse presente un menú de opciones para procesar un lote de imágenes. Deberán editar un Dockerfile y construir una imagen. Las imágenes a analizar debe ser descargadas o generadas desde internet y deben almacenarse dentro contenedor para su posterior análisis. Luego del análisis, deberá generarse un archivo disponible fuera del contenedor.</p>
+<p>El trabajo consiste en generar un contenedor que al ejecutarse presente un menú de opciones para procesar un lote de imágenes. Se deberá editar un Dockerfile y construir una imagen. Las imágenes a analizar debe ser descargadas o generadas desde internet y deben almacenarse dentro contenedor para su posterior análisis. Luego del análisis, deberá generarse un archivo disponible fuera del contenedor.</p>
 
-<p>Se deberán programar los siguientes scripts:</p>
+<p>Se programan los siguientes scripts:</p>
 <p>• generar.sh: Genera imágenes utilizando algún servicios web. Se debe
 poder indicar por argumento cuantas imagenes generar y se deben asignar
 nombres de archivo al azar de una lista de nombres de personas. Tener
